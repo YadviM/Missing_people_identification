@@ -1,4 +1,4 @@
-# Mssing_people_identification
+# Missing_people_identification
 Web-based Missing Person Identification System with Face Recognition
 
 This system aims to help find missing people using facial recognition technology through a user-friendly web interface. Here's a breakdown of the key aspects:
